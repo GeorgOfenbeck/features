@@ -1,5 +1,5 @@
 
-# ammonite (via direct linux binary download) (ammonite-homebrew)
+# ammonite (via direct linux binary download) (ammonite-linuxbinary)
 
 Ammonite lets you use the Scala language for scripting purposes https://ammonite.io/
 
@@ -7,7 +7,7 @@ Ammonite lets you use the Scala language for scripting purposes https://ammonite
 
 ```json
 "features": {
-    "ghcr.io/GeorgOfenbeck/features/ammonite-homebrew:1": {}
+    "ghcr.io/GeorgOfenbeck/features/ammonite-linuxbinary:1": {}
 }
 ```
 

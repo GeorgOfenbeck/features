@@ -3,7 +3,6 @@
 
 Ammonite lets you use the Scala language for scripting purposes https://ammonite.io/
 
-
 ## Example Usage
 
 ```json
